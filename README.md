@@ -25,3 +25,6 @@
 <a href="https://discord.com/users/792009176368807936">
   <img src="https://skillicons.dev/icons?i=discord" />
 </a>
+<a href="https://www.instagram.com/samuelsonbusiness/">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
